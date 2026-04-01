@@ -15,3 +15,5 @@ Pertanyaan Praktikum 2
    c. Perulangan i terjadi sebanyak 49 kali. Tahap Bubble Sort yang ditempuh = 49 tahap
 2. modifikasi
 
+Pertanyaan 5.3.7
+berfungsi untuk mencari indeks mahasiswa dengan nilai IPK paling kecil (minimum) pada bagian array yang belum terurut dalam algoritma Selection Sort.
