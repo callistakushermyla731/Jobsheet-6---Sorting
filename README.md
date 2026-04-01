@@ -17,3 +17,5 @@ Pertanyaan Praktikum 2
 
 Pertanyaan 5.3.7
 berfungsi untuk mencari indeks mahasiswa dengan nilai IPK paling kecil (minimum) pada bagian array yang belum terurut dalam algoritma Selection Sort.
+
+Pertanyaan 5.4.3 modifikasi
